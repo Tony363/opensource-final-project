@@ -6,6 +6,8 @@ Complete Personal Blog Script is a personal blog template mixes between modern, 
 
 ## version 1.0
 * Page, blog, menu, contact… modules are provided with the use of components to avoid boilerplate code.
+* multiuser blog
+  * authentication admin management
 
 ## version 1.0+
 * RSS feeds for posts https://stories.botble.com/feed/posts

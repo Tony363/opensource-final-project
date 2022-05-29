@@ -1,11 +1,5 @@
 # opensource-final-project
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
-</div>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="/blog">VIEW THE BLOG</a>
-</div>
+<table> <tr> <td bgcolor=#FF4500>这里的背景色是：OrangeRed， 十六进制颜色值：#FF4500， rgb(255, 69, 0)</td> </tr> </table>
 This project is called Complete Personal Blog Script using PHP MySQL Source Code. Complete Personal Blog Script is a clean and minimal Laravel blog script perfect for writers who need to create a personal blog site with simple creative features and effects to make readers feel the pleasure of reading blog posts and articles.
 
 Complete Personal Blog Script is a p

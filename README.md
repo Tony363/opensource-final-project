@@ -1,5 +1,5 @@
 # opensource-final-project
-<table> <tr> <td bgcolor=#FF4500>这里的背景色是：OrangeRed， 十六进制颜色值：#FF4500， rgb(255, 69, 0)</td> </tr> </table>
+![bg](#39ffaf)
 This project is called Complete Personal Blog Script using PHP MySQL Source Code. Complete Personal Blog Script is a clean and minimal Laravel blog script perfect for writers who need to create a personal blog site with simple creative features and effects to make readers feel the pleasure of reading blog posts and articles.
 
 Complete Personal Blog Script is a p

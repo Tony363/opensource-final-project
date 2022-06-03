@@ -11,11 +11,21 @@ Design of this project is pretty simple so that the user won’t find any diffic
 
 
 ## Use Case Diagram
-![diagram](doc/shema_deisign/use-case-diagram-of-blogging-system.png)
+![diagram](doc/shema_design/use-case-diagram-of-blogging-system.png)
 
 
 ## Adhoc Entity Relational Diagram
 ![blog](doc/schema_design/erd.png)
+
+## How to Run?
+Assuming you are using a debian linux based operating system and have install [XAMPP](https://www.apachefriends.org/download_success.html) on your PC (for Windows)
+1. Navigate to /opt/lampp/htdocs
+2. run this command "git clone https://github.com/Tony363/opensource-final-project.git"
+3. Open browser and go to URL “http://localhost/phpmyadmin/”
+4. Then, click on databases tab
+5. Create database naming “blog” and then click on import tab
+6. Click on browse file and select “blog.sql” file which is inside “database” folder
+7. Click on go.
 
 ## Group members
 * Tony363

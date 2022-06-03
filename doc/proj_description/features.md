@@ -1,41 +1,9 @@
 
-# Features of Complete Personal Blog Script
-This project is called Complete Personal Blog Script using PHP MySQL Source Code. Complete Personal Blog Script is a clean and minimal Laravel blog script perfect for writers who need to create a personal blog site with simple creative features and effects to make readers feel the pleasure of reading blog posts and articles.
+The Easy Blog site project is a simple PHP, CSS, and JavaScript project. Talking about the project, it has lots of features. A user can post news, blogs, photos. This project is a complete blogging site for the users where there are different categories It contains a homepage from where users can check the latest news, from programmers and about upcoming programs. There’s a separate tab for blog department where users can easily check all their news and blogs. The viewer can comment using their accounts. **Take note that this project is still in development so please report any kind of bug if you find.**
 
-Complete Personal Blog Script is a personal blog template mixes between modern, classic, and minimal styles and will help you create a simple and clean blog, if you are a blogger, then it’s a perfect choice.
+## About the System
+Admin has full control of the system, he/she can compose news, views all news, add and view exco, create and list events, insert photos into the gallery, sliders. The other main feature is that admin can manage the site like editing  Welcome notes, about pages, programmes page. From the admin panel, he/she can edit the site settings which includes Site Name, Site Title, Site Email, Description, Keywords, Google Analytic Code, Address, Contact details, Facebook Page ID, Twitter Account and Instagram Account. He/she can also add new Admin for the site, delete and list all admins. A responsive dashboard is provided in admin panel for the easy management of the site.
 
-## version 1.0
-* Page, blog, menu, contact… modules are provided with the use of components to avoid boilerplate code.
-* multiuser blog
-  * authentication admin management
+In short, this site in PHP project is just like a WordPress site. This simple blog site in PHP helps a user to post blogs online easily just like using a WordPress site. Design of this project is pretty simple and responsive so that user won’t find it difficult to understand, use and navigate.
 
-## version 1.0+
-* RSS feeds for posts https://stories.botble.com/feed/posts
-* Multi language support. Unlimited number of languages.
-* SEO & sitemap support: access sitemap.xml to see more.
-* Powerful media system, also support Amazon S3, DigitalOcean Spaces
-* Google Analytics: display analytics data in admin panel.
-* Translation tool: easy to translate front theme and admin panel to your language.
-* Creative blog theme is ready to use.
-* Powerful Permission System: Manage user, team, role by permissions. Easy to manage user by permissions.
-* Admin template comes with color schemes to match your taste.
-* Fully Responsive: Compatible with all screen resolutions
-* Coding Standard: All code follow coding standards PSR-2 and best practices
-
-
-# Requirements
-* Apache, nginx, or another compatible web server.
-* PHP >= 7.3 >> Higher
-* MySQL Database server
-* PDO PHP Extension
-* OpenSSL PHP Extension
-* Mbstring PHP Extension
-* Exif PHP Extension
-* Fileinfo Extension
-* XML PHP Extension
-* Ctype PHP Extension
-* JSON PHP Extension
-* Tokenizer PHP Extension
-* Module Re_write server
-* PHP_CURL Module Enable
-
+Design of this project is pretty simple so that the user won’t find any difficulties while working on it. To run this project you must have installed virtual server i.e [XAMPP](https://www.apachefriends.org/download_success.html) on your PC (for Windows). This System in PHP with source code is free to download, Use for educational purposes only! For the project demo, have a look at the [Video](https://youtu.be/zXab_1xVmhE ).

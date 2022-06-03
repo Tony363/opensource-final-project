@@ -1,5 +1,6 @@
 # opensource-final-project
-[features](doc/proj_description/features.md)
+@@include[features](doc/proj_description/features.md)
+
 <!-- The Easy Blog site project is a simple PHP, CSS, and JavaScript project. Talking about the project, it has lots of features. A user can post news, blogs, photos. This project is a complete blogging site for the users where there are different categories It contains a homepage from where users can check the latest news, from programmers and about upcoming programs. There’s a separate tab for blog department where users can easily check all their news and blogs. The viewer can comment using their accounts. **Take note that this project is still in development so please report any kind of bug if you find.**
 
 ## About the System

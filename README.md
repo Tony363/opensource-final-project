@@ -11,7 +11,7 @@ Design of this project is pretty simple so that the user won’t find any diffic
 
 
 ## Use Case Diagram
-![diagram](use-case-diagram-of-blogging-system.png)
+![diagram](doc/shema_deisign/use-case-diagram-of-blogging-system.png)
 
 
 ## Adhoc Entity Relational Diagram

@@ -28,6 +28,8 @@ Assuming you are using a debian linux based operating system and have install [X
 5. Create database naming “blog” and then click on import tab
 6. Click on browse file and select “blog.sql” file which is inside “database” folder
 7. Click on go.
+8. click on this [link](http://localhost/opensource-final-project/src)
+9. you can now start playing with the blog from your localhost
 
 ## Group members
 * Tony363

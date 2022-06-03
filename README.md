@@ -10,5 +10,9 @@ ersonal blog template mixes between modern, classic, and minimal styles and will
 * mp256cc
 * k9202ky
 
+## Use Case Diagram
+![diagram](use-case-diagram-of-blogging-system.png)
+
+
 ## Adhoc Entity Relational Diagram
 ![blog](doc/schema_design/erd.png)

@@ -11,4 +11,4 @@ ersonal blog template mixes between modern, classic, and minimal styles and will
 * k9202ky
 
 ## Adhoc Entity Relational Diagram
-![blog](doc/schema_design/ERD.png)
+![blog](doc/schema_design/erd.png)

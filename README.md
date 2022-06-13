@@ -31,6 +31,9 @@ Assuming you are using a debian linux based operating system and have install [X
 8. click on this [link](http://localhost/opensource-final-project/src)
 9. you can now start playing with the blog from your localhost
 
+## Feature Developement Logs
+* features one
+* 
 ## Group members
 * Tony363
 * mp256cc

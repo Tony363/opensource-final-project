@@ -31,7 +31,7 @@ Assuming you are using a debian linux based operating system and have install [X
 8. click on this [link](http://localhost/opensource-final-project/src)
 9. you can now start playing with the blog from your localhost
 
-## Feature Developement Logs
+## Feature Development Logs
 * Contact us messages can only been seen in database(message table)
 * logout.php just session_start(), session_destroy() and print the logout message.
 * we made post buffer table and user buffer table just for testing purpose

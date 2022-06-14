@@ -31,13 +31,19 @@ Assuming you are using a debian linux based operating system and have install [X
 8. click on this [link](http://localhost/opensource-final-project/src)
 9. you can now start playing with the blog from your localhost
 
-## Feature Development Logs
-* Contact us messages can only been seen in database(message table)
-* logout.php just session_start(), session_destroy() and print the logout message.
-* we made post buffer table and user buffer table just for testing purpose
-* login rendering of html and new post form is hard coded!
-* userlist is rendering of html is hard coded
-* entire new post is imported from includes/new_post_frame
+## Feature Development Logs 
+* version 0.01 - prioritizes project completion and feature delivery above all else.
+  * Only necessary feature sophistication was delivered
+  * frontend bootstraped
+  * HTML CSS copied & pasted from available resources
+  * Split minamal time on Entity relational diagram so as to not restrict development 
+    * there are no scalability concerns for this project
+  * Contact us messages can only been seen in database(message table)
+  * logout.php just session_start(), session_destroy() and print the logout message.
+  * we made post buffer table and user buffer table just for testing purpose
+  * login rendering of html and new post form is hard coded!
+  * userlist is rendering of html is hard coded
+  * entire new post is imported from includes/new_post_frame
 
 ## Group members
 * Tony363

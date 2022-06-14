@@ -32,12 +32,16 @@ Assuming you are using a debian linux based operating system and have install [X
 9. you can now start playing with the blog from your localhost
 
 ## Feature Development Logs 
-* version 0.01 - prioritizes project completion and feature delivery above all else.
+* Version 0.01 
+  * prioritizes project completion and feature delivery above all else.
   * Only necessary feature sophistication was delivered
   * frontend bootstraped
   * HTML CSS copied & pasted from available resources
-  * Split minamal time on Entity relational diagram so as to not restrict development 
+  * Spent minamal time on Entity relational diagram so as to not restrict development 
     * there are no scalability concerns for this project
+    * there is complete neglect for database normalization or optimization of any kind. it works, it works.
+  * Decided to separate key feature entities to its corresponding scripts
+  * Explored CKeditor for more interaction development on the web browser. Ditched that as its time consuming
   * Contact us messages can only been seen in database(message table)
   * logout.php just session_start(), session_destroy() and print the logout message.
   * we made post buffer table and user buffer table just for testing purpose

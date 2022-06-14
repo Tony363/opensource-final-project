@@ -33,7 +33,7 @@ Assuming you are using a debian linux based operating system and have install [X
 
 ## Feature Development Logs 
 * Version 0.01 
-  * prioritizes project completion and feature delivery above all else.
+  * Prioritizes project completion and feature delivery above all else.
   * Only necessary feature sophistication was delivered
   * Frontend bootstraped
   * HTML CSS copied & pasted from available resources
@@ -44,7 +44,7 @@ Assuming you are using a debian linux based operating system and have install [X
   * Explored CKeditor for more interactive development on the web browser. Ditched that as its time consuming
   * Contact us messages can only been seen in database(message table)
   * Logout.php just session_start(), session_destroy() and print the logout message.
-  * we made post buffer table and user buffer table just for testing purpose
+  * We made post buffer table and user buffer table just for testing purpose
   * Login rendering of html and new post form is hard coded!
   * Userlist is rendering of html is hard coded
   * Entire new post is imported from includes/new_post_frame

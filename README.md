@@ -42,6 +42,7 @@ Assuming you are using a debian linux based operating system and have install [X
     * there is complete neglect for database normalization or optimization of any kind. it works, it works.
   * Decided to separate key feature entities to its corresponding scripts
   * Explored CKeditor for more interactive development on the web browser. Ditched that as its time consuming
+  * We also implemented an Admin only interface for the Adminstrator to manage the blog application via the blog application interface
   * Contact us messages can only been seen in database(message table)
   * Logout.php just session_start(), session_destroy() and print the logout message.
   * We made post buffer table and user buffer table just for testing purpose

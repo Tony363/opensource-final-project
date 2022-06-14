@@ -35,19 +35,19 @@ Assuming you are using a debian linux based operating system and have install [X
 * Version 0.01 
   * prioritizes project completion and feature delivery above all else.
   * Only necessary feature sophistication was delivered
-  * frontend bootstraped
+  * Frontend bootstraped
   * HTML CSS copied & pasted from available resources
   * Spent minamal time on Entity relational diagram so as to not restrict development 
     * there are no scalability concerns for this project
     * there is complete neglect for database normalization or optimization of any kind. it works, it works.
   * Decided to separate key feature entities to its corresponding scripts
-  * Explored CKeditor for more interaction development on the web browser. Ditched that as its time consuming
+  * Explored CKeditor for more interactive development on the web browser. Ditched that as its time consuming
   * Contact us messages can only been seen in database(message table)
-  * logout.php just session_start(), session_destroy() and print the logout message.
+  * Logout.php just session_start(), session_destroy() and print the logout message.
   * we made post buffer table and user buffer table just for testing purpose
-  * login rendering of html and new post form is hard coded!
-  * userlist is rendering of html is hard coded
-  * entire new post is imported from includes/new_post_frame
+  * Login rendering of html and new post form is hard coded!
+  * Userlist is rendering of html is hard coded
+  * Entire new post is imported from includes/new_post_frame
 
 ## Group members
 * Tony363
